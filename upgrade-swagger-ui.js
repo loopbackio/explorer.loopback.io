@@ -26,6 +26,7 @@ async function upgradeSwaggerUI() {
     '.gitignore',
     '.npmrc',
     'CNAME',
+    'favicon.ico',
     'index.loopback.html',
     'LICENSE',
     'oauth2-redirect.loopback.html',
