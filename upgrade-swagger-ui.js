@@ -31,6 +31,7 @@ async function upgradeSwaggerUI() {
     'LICENSE',
     'oauth2-redirect.loopback.html',
     'package.json',
+    'package-lock.json',
     'README.md',
     'upgrade-swagger-ui.js'
   ];
