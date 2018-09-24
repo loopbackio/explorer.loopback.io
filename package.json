@@ -1,7 +1,7 @@
 {
   "name": "explorer.loopback.io",
   "version": "1.0.0",
-  "description": "Scripts for the jekyll-based explorer.loopback.io site",
+  "description": "Scripts for explorer.loopback.io site",
   "private": true,
   "scripts": {
     "start": "http-server -p 4001",
