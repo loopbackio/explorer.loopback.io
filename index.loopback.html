@@ -5,12 +5,13 @@
   <meta charset="UTF-8">
   <title>LoopBack API Explorer</title>
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|Source+Code+Pro:300,600|Titillium+Web:400,600,700" rel="stylesheet">
-  <link rel="stylesheet" type="text/css" href="./swagger-ui.css" >
   <link rel="icon" type="image/x-icon" href="./favicon.ico" />
   <!-- Bootstrap core CSS -->
   <link href="https://v4.loopback.io/dist/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans" rel="stylesheet">
   <link href="https://v4.loopback.io/css/loopback.css" rel="stylesheet">
+  <!--Swagger UI CSS-->
+  <link rel="stylesheet" type="text/css" href="./swagger-ui.css" >
   <!-- Style Overrides -->
   <style>
     html {
@@ -41,6 +42,12 @@
     
     .information-container.wrapper {
         padding-top: 30px;
+    }
+
+    .swagger-ui .col {
+        width: initial;
+        position: initial;
+        min-height: initial;
     }
   </style>
 
@@ -82,9 +89,7 @@
               <a class="github-button" href="https://github.com/strongloop/loopback-next" data-icon="octicon-star" data-show-count="true"
                   aria-label="Star strongloop/loopback-next on GitHub">Star</a>
           </li>
-
       </ul>
-
   </div>
 </nav>
 
