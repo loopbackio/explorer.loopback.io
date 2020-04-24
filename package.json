@@ -21,5 +21,6 @@
     "swagger-ui-dist": "^3.25.0"
   },
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {},
+  "copyright.owner": "IBM Corp."
 }

@@ -1,3 +1,8 @@
+// Copyright IBM Corp. 2018. All Rights Reserved.
+// Node module: explorer.loopback.io
+// This file is licensed under the MIT License.
+// License text available at https://opensource.org/licenses/MIT
+
 /*
  * getAbsoluteFSPath
  * @return {string} When run in NodeJS env, returns the absolute path to the current directory

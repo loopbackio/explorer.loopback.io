@@ -1,3 +1,8 @@
+// Copyright IBM Corp. 2018. All Rights Reserved.
+// Node module: explorer.loopback.io
+// This file is licensed under the MIT License.
+// License text available at https://opensource.org/licenses/MIT
+
 try {
   module.exports.SwaggerUIBundle = require("./swagger-ui-bundle.js")
   module.exports.SwaggerUIStandalonePreset = require("./swagger-ui-standalone-preset.js")
